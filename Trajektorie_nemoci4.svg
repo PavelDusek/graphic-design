@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="Trajektorie_nemoci4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="473.76154"
+     inkscape:cy="479.82246"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-text-baseline="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       transform="translate(0,-87.000001)"
+       style="opacity:0.8;fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.75000002, 0.75000001999999999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 59.177271,240.20915 c 14.363095,-2.45685 40.976079,10.33412 38.519236,21.10644"
+       id="path4562"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path36"
+       d="M 59.177271,153.20915 C 108.69216,159.06778 253.98965,131.03731 278.74711,130.09238"
+       style="opacity:0.8;fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.75000002, 0.75000002;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text896-3"
+       y="92.58963"
+       x="93.151581"
+       style="font-style:normal;font-weight:normal;font-size:6.46428px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.161607"
+       xml:space="preserve"><tspan
+         style="line-height:2;fill:#808080;stroke-width:0.161607"
+         id="tspan894"
+         y="92.58963"
+         x="93.151581"
+         sodipodi:role="line">nejlepší možný průběh</tspan></text>
+    <g
+       transform="matrix(0.98927907,0.17934369,0.07553906,-0.99714284,39.69023,313.71472)"
+       id="g916">
+      <g
+         id="g907">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 65.881935,231.11805 c 5.586316,-9.55719 76.250275,14.07448 79.512675,2.27181"
+           id="rect898"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect903"
+         d="m 145.39461,235.3725 -1.98264,-1.98264 h 1.98264 z"
+         style="fill:#000000;stroke:#000000;stroke-width:0.060556;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g271"
+       transform="matrix(0.70058615,0,0,-0.7145907,101.28956,174.71297)">
+      <g
+         transform="translate(36.03957,-178.1723)"
+         id="g920">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path918"
+           d="m 84.056263,245.55061 c 1.310003,-8.62175 3.953868,-7.97526 7.216268,-19.77793"
+           style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+      <path
+         inkscape:transform-center-y="-0.23119793"
+         inkscape:transform-center-x="1.132914"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path930"
+         d="m 128.66626,49.04854 -2.8023,-0.094 1.44814,-1.35416 z"
+         style="fill:#000000;stroke:#000000;stroke-width:0.060556;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g276"
+       transform="matrix(0.59343557,-0.36745683,3.388202,0.06435919,-109.39492,200.56516)"
+       inkscape:transform-center-x="33.766114"
+       inkscape:transform-center-y="-19.718013">
+      <g
+         id="g928"
+         transform="translate(24.413346,-177.37049)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="M 95.682487,244.7488 C 96.99249,236.12705 69.702169,233.69994 72.964569,221.89727"
+           id="path926"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.060556;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 98.732079,45.97494 -2.802301,-0.094 1.448137,-1.35416 z"
+         id="path932"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-x="1.132914"
+         inkscape:transform-center-y="-0.23119793" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.46428px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.161607"
+       x="178.5742"
+       y="125.85153"
+       id="text255"><tspan
+         sodipodi:role="line"
+         x="178.5742"
+         y="125.85153"
+         id="tspan253"
+         style="line-height:2;fill:#808080;stroke-width:0.161607">nejpravděpodobnější průběh</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.46428px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.161607"
+       x="190.66943"
+       y="162.89319"
+       id="text259"><tspan
+         sodipodi:role="line"
+         x="190.66943"
+         y="162.89319"
+         id="tspan257"
+         style="line-height:2;fill:#808080;stroke-width:0.161607">nejhorší možný průběh</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.10874689;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 291.88912,260.64199 H 24.22891 V 92.874936"
+       id="rect10"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-171.92801"
+       y="16.753862"
+       id="text859"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         x="-171.92801"
+         y="16.753862"
+         id="tspan857"
+         style="stroke-width:0.264583"><tspan
+           x="-171.92801"
+           y="16.753862"
+           id="tspan855"
+           style="stroke-width:0.264583">funkční stav</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="257.77969"
+       y="276.88187"
+       id="text890"><tspan
+         sodipodi:role="line"
+         x="257.77969"
+         y="276.88187"
+         id="tspan888"
+         style="stroke-width:0.264583"><tspan
+           x="257.77969"
+           y="276.88187"
+           id="tspan886"
+           style="stroke-width:0.264583">čas</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="84.817894"
+       y="268.47372"
+       id="text884"><tspan
+         sodipodi:role="line"
+         x="84.817894"
+         y="268.47372"
+         id="tspan882"
+         style="stroke-width:0.264583"><tspan
+           x="84.817894"
+           y="268.47372"
+           id="tspan880"
+           style="stroke-width:0.264583">smrt</tspan></tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.2873348;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 28.589408,97.246703 h -8.754725 l 4.377362,-4.377362 z"
+       id="rect850"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path853"
+       d="m 287.51175,265.01935 v -8.75472 l 4.37737,4.37736 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.2873348;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       id="text896"
+       y="144.07043"
+       x="25.708509"
+       style="font-style:normal;font-weight:normal;font-size:6.46428px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.161607"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.161607"
+         y="144.07043"
+         x="25.708509"
+         sodipodi:role="line"
+         id="tspan4550">ložiskové postižení</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.458334,146.94345 c 30.238095,-0.75595 10.583332,92.98214 33.261904,92.98214 35.529761,0 -29.86012,-43.46725 220.738092,-44.97916"
+       id="path35"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.46428px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.161607"
+       x="216.20851"
+       y="182.24603"
+       id="text4556"><tspan
+         id="tspan4554"
+         sodipodi:role="line"
+         x="216.20851"
+         y="182.24603"
+         style="stroke-width:0.161607">přetrvávají ložiskové</tspan><tspan
+         sodipodi:role="line"
+         x="216.20851"
+         y="190.32639"
+         style="stroke-width:0.161607"
+         id="tspan4558">příznaky</tspan></text>
+    <text
+       id="text32"
+       y="248.39186"
+       x="101.30375"
+       style="font-style:normal;font-weight:normal;font-size:6.46428px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.161607"
+       xml:space="preserve"><tspan
+         id="tspan30"
+         style="stroke-width:0.161607"
+         y="248.39186"
+         x="101.30375"
+         sodipodi:role="line">komplikace</tspan></text>
+  </g>
+</svg>
