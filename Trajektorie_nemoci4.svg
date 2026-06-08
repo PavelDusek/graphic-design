@@ -7,7 +7,7 @@
    viewBox="0 0 297 210"
    version="1.1"
    id="svg8"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    sodipodi:docname="Trajektorie_nemoci4.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,14 +25,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="473.76154"
-     inkscape:cy="479.82246"
+     inkscape:zoom="0.7"
+     inkscape:cx="531.42857"
+     inkscape:cy="468.57143"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -68,7 +68,7 @@
        inkscape:connector-curvature="0"
        id="path36"
        d="M 59.177271,153.20915 C 108.69216,159.06778 253.98965,131.03731 278.74711,130.09238"
-       style="opacity:0.8;fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.75000002, 0.75000002;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.8;fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text896-3"
        y="92.58963"
@@ -249,11 +249,15 @@
          sodipodi:role="line"
          id="tspan4550">ložiskové postižení</tspan></text>
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 26.458334,146.94345 c 30.238095,-0.75595 10.583332,92.98214 33.261904,92.98214 35.529761,0 -29.86012,-43.46725 220.738092,-44.97916"
        id="path35"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       style="fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 27.592483,147.32153 5.247742,0.99167 c -1.559876,-0.68686 -3.297541,-1.04042 -5.247742,-0.99167 z m 5.247742,0.99167 c 22.209867,9.77967 7.367635,88.99598 26.880013,91.90809"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path35-6"
+       style="fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:0.75,0.75;stroke-dashoffset:0"
+       d="m 59.625523,240.34324 c 35.529763,0 -29.86027,-43.46726 220.737947,-44.97917"
+       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.46428px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.161607"
