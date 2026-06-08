@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (33fec40, 2019-01-16)"
+   sodipodi:docname="trajektorie_nemoci3.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="732.98773"
+     inkscape:cy="428.08633"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1299"
+     inkscape:window-height="704"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.10874689;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 291.88912,260.64199 H 24.22891 V 92.874936"
+       id="rect10"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 31.620293,219.67416 c 13.739851,3.52422 5.0886,7.13691 10.494486,6.89386 6.190949,0.0768 -0.657379,-1.51907 9.049047,-2.13261 5.583847,-0.35295 6.023223,8.02921 10.597028,5.75543 3.412648,-1.69654 2.805376,11.24534 10.447795,9.36176 4.404255,-1.08548 -0.422872,-6.82283 9.940168,-6.98955 6.043191,-0.0972 -0.34198,-3.06414 8.16567,-0.90097 9.789253,2.48903 -3.944886,3.25796 10.478353,7.79538 8.45106,2.65862 1.52887,5.8786 6.7102,5.76594 2.30263,-0.0501 6.41815,-1.77471 10.42402,-1.33689 2.77898,0.30373 5.37709,7.89869 11.16796,5.1503 0.93229,-0.44247 5.28361,0.60479 12.83116,0.25127 4.73451,-0.22176 14.18899,5.26523 20.32861,4.52064 9.75835,-1.18344 6.01776,-0.56983 19.98997,1.96582 11.32682,2.05557 27.26005,2.19045 43.73174,0.60173 11.63474,-1.12219 25.15577,1.20662 36.08254,0.69398 6.4811,-0.30406 11.27733,-0.0167 16.79567,1.01069"
+       id="rect12"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssssssssssssssc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-171.92801"
+       y="16.753862"
+       id="text859"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         x="-171.92801"
+         y="16.753862"
+         id="tspan857"
+         style="stroke-width:0.26458332"><tspan
+           x="-171.92801"
+           y="16.753862"
+           id="tspan855"
+           style="stroke-width:0.26458332">funkční stav</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="257.77969"
+       y="276.88187"
+       id="text890"><tspan
+         sodipodi:role="line"
+         x="257.77969"
+         y="276.88187"
+         id="tspan888"
+         style="stroke-width:0.26458332"><tspan
+           x="257.77969"
+           y="276.88187"
+           id="tspan886"
+           style="stroke-width:0.26458332">čas</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="269.47409"
+       y="255.8381"
+       id="text884"><tspan
+         sodipodi:role="line"
+         x="269.47409"
+         y="255.8381"
+         id="tspan882"
+         style="stroke-width:0.26458332"><tspan
+           x="269.47409"
+           y="255.8381"
+           id="tspan880"
+           style="stroke-width:0.26458332">smrt</tspan></tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.2873348;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 28.589408,97.246703 h -8.754725 l 4.377362,-4.377362 z"
+       id="rect850"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path853"
+       d="m 287.51175,265.01935 v -8.75472 l 4.37737,4.37736 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.2873348;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>
