@@ -1,5 +1,5 @@
-#graphic-design
+# graphic-design
 Simple graphics to use in other projects.
 
-##Licence
+## Licence
 CC-BY-SA 4.0
